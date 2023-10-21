@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\bin\Debug\net6.0\Non-ThreadedVersion.exe
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\bin\Debug\net6.0\Non-ThreadedVersion.deps.json
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\bin\Debug\net6.0\Non-ThreadedVersion.runtimeconfig.json
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\bin\Debug\net6.0\Non-ThreadedVersion.dll
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\bin\Debug\net6.0\Non-ThreadedVersion.pdb
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\Non-ThreadedVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\Non-ThreadedVersion.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\Non-ThreadedVersion.AssemblyInfo.cs
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\Non-ThreadedVersion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\Non-ThreadedVersion.dll
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\refint\Non-ThreadedVersion.dll
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\Non-ThreadedVersion.pdb
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\Non-ThreadedVersion.genruntimeconfig.cache
+C:\Users\HP\source\repos\HomeWork-PP\Non-ThreadedVersion\obj\Debug\net6.0\ref\Non-ThreadedVersion.dll

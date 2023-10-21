@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\bin\Debug\net6.0\Multi-ThreadedVersion.exe
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\bin\Debug\net6.0\Multi-ThreadedVersion.deps.json
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\bin\Debug\net6.0\Multi-ThreadedVersion.runtimeconfig.json
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\bin\Debug\net6.0\Multi-ThreadedVersion.dll
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\bin\Debug\net6.0\Multi-ThreadedVersion.pdb
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\Multi-ThreadedVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\Multi-ThreadedVersion.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\Multi-ThreadedVersion.AssemblyInfo.cs
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\Multi-ThreadedVersion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\Multi-ThreadedVersion.dll
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\refint\Multi-ThreadedVersion.dll
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\Multi-ThreadedVersion.pdb
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\Multi-ThreadedVersion.genruntimeconfig.cache
+C:\Users\HP\source\repos\HomeWork-PP\Multi-ThreadedVersion\obj\Debug\net6.0\ref\Multi-ThreadedVersion.dll
