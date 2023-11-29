@@ -1,0 +1,33 @@
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.exe
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.deps.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.runtimeconfig.json
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.Form1.resources
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.csproj.GenerateResource.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.AssemblyInfo.cs
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\refint\DownsizeThreaded.dll
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.pdb
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.genruntimeconfig.cache
+C:\Users\denni\Documents\Университет Трети Курс\Избираема1 - Паралелно програмиране\Втори проект - всичко\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\ref\DownsizeThreaded.dll
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.exe
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.deps.json
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.runtimeconfig.json
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.dll
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\bin\Debug\net6.0-windows\DownsizeThreaded.pdb
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.Form1.resources
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.AssemblyInfo.cs
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.sourcelink.json
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.dll
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\refint\DownsizeThreaded.dll
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.pdb
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\DownsizeThreaded.genruntimeconfig.cache
+C:\Users\HP\Downloads\ImageDownsizer\SecondProjectFinalThread\DownsizeThreaded\DownsizeThreaded\obj\Debug\net6.0-windows\ref\DownsizeThreaded.dll
