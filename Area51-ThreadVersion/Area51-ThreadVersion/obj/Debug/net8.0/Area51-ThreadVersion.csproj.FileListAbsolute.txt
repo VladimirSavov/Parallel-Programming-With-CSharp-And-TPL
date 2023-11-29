@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\bin\Debug\net8.0\Area51-ThreadVersion.exe
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\bin\Debug\net8.0\Area51-ThreadVersion.deps.json
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\bin\Debug\net8.0\Area51-ThreadVersion.runtimeconfig.json
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\bin\Debug\net8.0\Area51-ThreadVersion.dll
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\bin\Debug\net8.0\Area51-ThreadVersion.pdb
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\Area51-ThreadVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\Area51-ThreadVersion.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\Area51-ThreadVersion.AssemblyInfo.cs
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\Area51-ThreadVersion.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\Area51-ThreadVersion.dll
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\refint\Area51-ThreadVersion.dll
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\Area51-ThreadVersion.pdb
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\Area51-ThreadVersion.genruntimeconfig.cache
+C:\Users\HP\source\repos\Area51-ThreadVersion\Area51-ThreadVersion\obj\Debug\net8.0\ref\Area51-ThreadVersion.dll
